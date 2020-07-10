@@ -1,6 +1,6 @@
 import Foundation
 
-final class Log {
+public final class Log {
     // MARK: Configuration
 
     /// Represents a level of detail to be logged.
