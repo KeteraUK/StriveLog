@@ -29,7 +29,7 @@ public final class Log {
             case .debug: return "🐝"
             case .info: return "✏️"
             case .warning: return "⚠️"
-            case .error: return "⁉️"
+            case .error: return "❌"
             case .off: return ""
             }
         }
